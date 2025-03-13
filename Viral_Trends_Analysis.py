@@ -2,7 +2,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
-import pprint
 
 # %% Load dataset
 file_dir = os.path.dirname(os.path.abspath(__file__))
