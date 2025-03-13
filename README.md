@@ -6,14 +6,14 @@ This project analyzes engagement patterns in viral social media content across m
 ## Viral Social Media Trends Dataset
 The dataset is stored in data/Viral_Social_Media_Trends.csv and contains the following key columns:
 
-Platform
-Hashtag
-Region – Geographical region where the trend gained traction.
-Views
-Likes
-Comments
-Shares
-Engagement Level – Categorized as Low, Medium, or High
+- Platform
+- Hashtag
+- Region: Geographical region where the trend gained traction.
+- Views
+- Likes
+- Comments
+- Shares
+- Engagement Level: Categorized as Low, Medium, or High
 
 The [dataset](https://www.kaggle.com/datasets/atharvasoundankar/viral-social-media-trends-and-engagement-analysis/discussion/567523) is included in the repo and is open license. 
 
